@@ -710,7 +710,7 @@ MonoBehaviour:
   dirtSplatter: {fileID: 475251984}
   jumpSound: {fileID: 8300000, guid: 08ab7053d586c458db3774d33c141a4b, type: 3}
   crashSound: {fileID: 8300000, guid: e7ee25a47d63b46cdaf65480d62b405c, type: 3}
-  jumpForce: 700
+  jumpForce: 600
   gravityMultiplier: 1.5
   isOnGround: 1
   isGameOver: 0
