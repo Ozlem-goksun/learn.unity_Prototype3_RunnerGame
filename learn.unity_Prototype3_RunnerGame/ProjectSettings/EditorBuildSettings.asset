@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Prototype 3.unity
     guid: dc8c9f3efd746429fa6f9482dc779492
+  - enabled: 1
+    path: Assets/Challenge 3/Challenge 3.unity
+    guid: 8a1fabfaac7e04af29dc3664bfd4f100
   m_configObjects: {}
