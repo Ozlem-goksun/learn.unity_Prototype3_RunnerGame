@@ -6,7 +6,7 @@
 In this simple game prototype our character jumps with the "Space" key and when he hits obstacles he falls with an explosion effect💥.
 
 ## Challenge 3
-In the third challenge, I gave motion to the balloon, fixed the broken particles and made the background repeat smoothly.
+In the third challenge, I gave motion to the balloon, fixed the broken particles and made the background repeat smoothly.Just click the gif below to try👇🏼.
 
 [<img src="https://github.com/Ozlem-goksun/learn.unity_Prototype3_RunnerGame/blob/main/learn.unity_Prototype3_RunnerGame/WebGL%20Builds/Challenge%203/Challenge3.gif" alt="challenge3" style="max-width: 100%; height: auto;">](https://play.unity.com/en/games/08d6a4e7-145c-4622-a560-d5ee46eefefc/junior-programmer-challenge-3)
 
